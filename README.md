@@ -35,7 +35,7 @@ Please ensure that your code follows the established coding style and convention
 
 ## License
 
-This project is licensed under the [docy License](LICENSE).
+This project is licensed under the [docy License]([LICENSE](https://elements.envato.com/docy-documentation-knowledgebase-html-template-X8562VU)).
 
 ## Acknowledgements
 
