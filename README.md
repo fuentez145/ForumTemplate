@@ -29,7 +29,7 @@ git push origin feature/your-feature-name
 
 
 
-5. Open a pull request to the main repository's `main` branch.
+5. Open a pull request to the main repository's `master` branch.
 
 Please ensure that your code follows the established coding style and conventions.
 
