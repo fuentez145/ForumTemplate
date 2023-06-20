@@ -3,4 +3,4 @@
 Credit & License Under the name : Docy
 
 
-This Project is still working....
+This Project is under working at the moment.
